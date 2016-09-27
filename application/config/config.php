@@ -23,8 +23,12 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 | a PHP script and you can easily do that on your own.
 |
 */
+<<<<<<< HEAD
 
 $config['base_url'] = 'http://45.55.92.156/';
+=======
+$config['base_url'] = 'http://e-con.ml/';
+>>>>>>> c064c03ba4c8afab396582abca3e3e61a793b594
 
 /*
 |--------------------------------------------------------------------------
