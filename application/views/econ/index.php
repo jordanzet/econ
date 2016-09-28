@@ -35,9 +35,9 @@
 						<ul>
 							<li><a href="<?php echo site_url("");?>">Inicio</a></li>
 							<li>
-								<a href="<?php echo site_url("feria");?>">Feria Tecnológica y Empresarial</a>
+								<a href="<?php echo site_url("index.php/feria");?>">Feria Tecnológica y Empresarial</a>
 							</li>
-							<li><a href="<?php echo site_url("talleres");?>">Talleres</a></li>
+							<li><a href="<?php echo site_url("index.php/talleres");?>">Talleres</a></li>
 							<li><a href="#" class="button special">Regístrarse</a></li>
 						</ul>
 					</nav>
@@ -156,7 +156,7 @@
 						</header>
 						<p>Se darán exposiciones de talla internacional explicando las tecnologías emergentes y el conocimiento desarrollado en el mundo por parte de los implicados (conferencistas, empresas, institutos de investigación y asociaciones afines).</p>
 						<ul class="actions">
-							<li><a href="<?php echo site_url("conferencias");?>" class="button">Leer más</a></li>
+							<li><a href="<?php echo site_url("index.php/conferencias");?>" class="button">Leer más</a></li>
 						</ul>
 					</div>
 					<a href="#cuatro" class="goto-next scrolly">Next</a>
@@ -172,7 +172,7 @@
 						</header>
 						<p>Es un espacio para que las empresas muestren las innovaciones que hacen como parte de esta era de gran crecimiento tecnologico.</p>
 						<ul class="actions">
-							<li><a href="<?php echo site_url("feria");?>" class="button">Leer más</a></li>
+							<li><a href="<?php echo site_url("index.php/feria");?>" class="button">Leer más</a></li>
 						</ul>
 					</div>
 					<a href="#cinco" class="goto-next scrolly">Next</a>

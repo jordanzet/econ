@@ -36,9 +36,9 @@
 						<ul>
 							<li><a href="<?php echo site_url("");?>">Inicio</a></li>
 							<li>
-								<a href="<?php echo site_url("feria");?>">Feria Tecnológica y Empresarial</a>
+								<a href="<?php echo site_url("index.php/feria");?>">Feria Tecnológica y Empresarial</a>
 							</li>
-							<li><a href="<?php echo site_url("talleres");?>">Talleres</a></li>
+							<li><a href="<?php echo site_url("index.php/talleres");?>">Talleres</a></li>
 							<li><a href="#" class="button special">Regístrarse</a></li>
 						</ul>
 					</nav>
