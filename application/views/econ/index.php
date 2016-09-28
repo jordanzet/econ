@@ -26,10 +26,9 @@
 		<meta  name= "msapplication-TileImage"  content= "/ms-icon-144x144.png" > 
 		<meta  name= "theme-color"  content= "#ffffff" >
 	</head>
+
 	<body class="landing">
 		<div id="page-wrapper">
-
-			<!-- Header -->
 				<header id="header">
 					<h1 id="logo"><a href="<?php echo site_url("");?>">I Congreso de Electrónica</a></h1>
 					<nav id="nav">
@@ -95,7 +94,7 @@
 					<div class="content">
 						<header>
 							<h2>Misión</h2>
-							<!--<p>Accumsan integer ultricies aliquam vel massa sapien phasellus</p>-->
+							
 						</header>
 						<p>Brindar un espacio para la difusión  de los avances tecnológicos orientados a la electrónica.</p>
 						<p>Actualizar los conocimientos de los participantes.</p>
@@ -110,7 +109,7 @@
 					<div class="content">
 						<header>
 							<h2>Visión</h2>
-							<!--<p>Feugiat accumsan lorem eu ac lorem amet ac arcu phasellus tortor enim mi mi nisi praesent adipiscing. Integer mi sed nascetur cep aliquet augue varius tempus lobortis porttitor lorem et accumsan consequat adipiscing lorem.</p>-->
+							
 						</header>
 						<p>Ser el congreso de ingeniería electrónica más reconocido e influyente a nivel nacional e internacional.</p>
 						<p>Crear empatía entre empresas y profesionales, para el desarrollo tecnológico sostenible en la sociedad.</p>
@@ -153,7 +152,7 @@
 					<div class="content">
 						<header>
 							<h2>Conferencias</h2>
-							<!--<p>Feugiat accumsan lorem eu ac lorem amet ac arcu phasellus tortor enim mi mi nisi praesent adipiscing. Integer mi sed nascetur cep aliquet augue varius tempus lobortis porttitor lorem et accumsan consequat adipiscing lorem.</p>-->
+							
 						</header>
 						<p>Se darán exposiciones de talla internacional explicando las tecnologías emergentes y el conocimiento desarrollado en el mundo por parte de los implicados (conferencistas, empresas, institutos de investigación y asociaciones afines).</p>
 						<ul class="actions">
@@ -169,7 +168,7 @@
 					<div class="content">
 						<header>
 							<h2>Feria Tecnológica y Empresarial</h2>
-							<!--<p>Accumsan integer ultricies aliquam vel massa sapien phasellus</p>-->
+							
 						</header>
 						<p>Es un espacio para que las empresas muestren las innovaciones que hacen como parte de esta era de gran crecimiento tecnologico.</p>
 						<ul class="actions">
@@ -214,54 +213,7 @@
 					<a href="#five" class="goto-next scrolly">Next</a>
 				</section>
 
-			<!-- Four -->
-				<!--<section id="four" class="wrapper style1 special fade-up">
-					<div class="container">
-						<header class="major">
-							<h2>Accumsan sed tempus adipiscing blandit</h2>
-							<p>Iaculis ac volutpat vis non enim gravida nisi faucibus posuere arcu consequat</p>
-						</header>
-						<div class="box alt">
-							<div class="row uniform">
-								<section class="4u 6u(medium) 12u$(xsmall)">
-									<span class="icon alt major fa-area-chart"></span>
-									<h3>Ipsum sed commodo</h3>
-									<p>Feugiat accumsan lorem eu ac lorem amet accumsan donec. Blandit orci porttitor.</p>
-								</section>
-								<section class="4u 6u$(medium) 12u$(xsmall)">
-									<span class="icon alt major fa-comment"></span>
-									<h3>Eleifend lorem ornare</h3>
-									<p>Feugiat accumsan lorem eu ac lorem amet accumsan donec. Blandit orci porttitor.</p>
-								</section>
-								<section class="4u$ 6u(medium) 12u$(xsmall)">
-									<span class="icon alt major fa-flask"></span>
-									<h3>Cubilia cep lobortis</h3>
-									<p>Feugiat accumsan lorem eu ac lorem amet accumsan donec. Blandit orci porttitor.</p>
-								</section>
-								<section class="4u 6u$(medium) 12u$(xsmall)">
-									<span class="icon alt major fa-paper-plane"></span>
-									<h3>Non semper interdum</h3>
-									<p>Feugiat accumsan lorem eu ac lorem amet accumsan donec. Blandit orci porttitor.</p>
-								</section>
-								<section class="4u 6u(medium) 12u$(xsmall)">
-									<span class="icon alt major fa-file"></span>
-									<h3>Odio laoreet accumsan</h3>
-									<p>Feugiat accumsan lorem eu ac lorem amet accumsan donec. Blandit orci porttitor.</p>
-								</section>
-								<section class="4u$ 6u$(medium) 12u$(xsmall)">
-									<span class="icon alt major fa-lock"></span>
-									<h3>Massa arcu accumsan</h3>
-									<p>Feugiat accumsan lorem eu ac lorem amet accumsan donec. Blandit orci porttitor.</p>
-								</section>
-							</div>
-						</div>
-						<footer class="major">
-							<ul class="actions">
-								<li><a href="#" class="button">Magna sed feugiat</a></li>
-							</ul>
-						</footer>
-					</div>
-				</section>-->
+		
 
 			<!-- cinco -->
 				<section id="five" class="wrapper style2 special fade">
@@ -284,17 +236,14 @@
 					<ul class="icons">
 						<li><a href="https://twitter.com/InformesEcon/" target="_blank" class="icon alt fa-twitter"><span class="label">Twitter</span></a></li>
 						<li><a href="https://www.facebook.com/ECON.UNI/" target="_blank" class="icon alt fa-facebook"><span class="label">Facebook</span></a></li>
-						<!--<li><a href="#" class="icon alt fa-linkedin"><span class="label">LinkedIn</span></a></li>
-						<li><a href="#" class="icon alt fa-instagram"><span class="label">Instagram</span></a></li>
-						<li><a href="#" class="icon alt fa-github"><span class="label">GitHub</span></a></li>
-						<li><a href="#" class="icon alt fa-envelope"><span class="label">Email</span></a></li>-->
+						
 					</ul>
 					
 					<ul class="copyright">
 					<p>Universidad Nacional de Ingeniería</p>
 					<p>Facultad de ingeniería eléctrica y electrónica</p>
 					<p>	Av. Túpac Amaru 210, Rimac</p>
-						<!--<li>&copy; Untitled. All rights reserved.</li><li>Design: <a href="http://html5up.net"/ target="_blank">HTML5 UP</a></li>-->
+						
 					</ul> 
 				</footer>
 
@@ -311,30 +260,29 @@
 			<script src="<?php echo base_url();?>/assets/js/main.js"></script>
 
 			<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script> 
-<script type="text/javascript" src="assets/js/jquery.downCount.js"></script> 
-<script class="source" type="text/javascript">
-        $('.countdown').downCount({
-            date: '11/02/2016 12:00:00',
-            offset: +10
-        }, function () {
-            alert('WOOT WOOT, done!');
-        });
-    </script> 
-    <script type="text/javascript">
+			<script type="text/javascript" src="<?php echo base_url();?>/assets/js/jquery.downCount.js"></script> 
+			<script class="source" type="text/javascript">
+		        $('.countdown').downCount({
+		            date: '11/02/2016 12:00:00',
+		            offset: +10
+		        }, function () {
+		            alert('WOOT WOOT, done!');
+		        });
+		    </script> 
+		    <script type="text/javascript">
 
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-36251023-1']);
-  _gaq.push(['_setDomainName', 'jqueryscript.net']);
-  _gaq.push(['_trackPageview']);
+			  var _gaq = _gaq || [];
+			  _gaq.push(['_setAccount', 'UA-36251023-1']);
+			  _gaq.push(['_setDomainName', 'jqueryscript.net']);
+			  _gaq.push(['_trackPageview']);
 
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
+			  (function() {
+			    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+			  })();
 
-	</script>
-
+			</script>
 	</body>
 
 	
