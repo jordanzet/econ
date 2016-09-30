@@ -35,9 +35,8 @@
 						<ul>
 							<li><a href="<?php echo site_url("");?>">Inicio</a></li>
 							<li>
-								<a href="<?php echo site_url("index.php/feria");?>">Feria Tecnológica y Empresarial</a>
+								<a href="<?php echo site_url("index.php/conferencias");?>">Conferencias</a>
 							</li>
-							<li><a href="<?php echo site_url("index.php/talleres");?>">Talleres</a></li>
 							<li><a href="#" class="button special">Regístrarse</a></li>
 						</ul>
 					</nav>
@@ -163,7 +162,7 @@
 				</section>
 
 			<!-- cuatro -->
-				<section id="cuatro" class="spotlight style3 left">
+				<!--<section id="cuatro" class="spotlight style3 left">
 					<span class="image fit main bottom"><img src="<?php echo base_url();?>/images/pic04.jpg" alt="" /></span>
 					<div class="content">
 						<header>
@@ -176,9 +175,9 @@
 						</ul>
 					</div>
 					<a href="#cinco" class="goto-next scrolly">Next</a>
-				</section>
+				</section> -->
 				<!-- cinco -->
-				<section id="cinco" class="spotlight style1 bottom">
+				<section id="cuatro" class="spotlight style1 bottom">
 					<span class="image fit main"><img src="<?php echo base_url();?>/images/pic4.jpg" alt="" /></span>
 					<div class="content">
 						<div class="container">
