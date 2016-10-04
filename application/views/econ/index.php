@@ -110,7 +110,7 @@
 							<h2>Visión</h2>
 							
 						</header>
-						<p>Ser el congreso de ingeniería electrónica más reconocido e influyente a nivel nacional e internacional.</p>
+						<p>Ser el CONGRESO DE INGENIERÍA ELECTRÓNICA más reconocido e influyente a nivel nacional e internacional.</p>
 						<p>Crear empatía entre empresas y profesionales, para el desarrollo tecnológico sostenible en la sociedad.</p>
 						
 					</div>
