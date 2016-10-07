@@ -73,7 +73,7 @@
 										</header>
 											<p>Las empresas podrán explicar cuáles son las áreas que más demandan y la necesidad de implementar el área de investigación dentro de ella. Se podrá brindar un espacio en el cual el estudiante de ingeniería así como las empresas formen acuerdos importantes, resuelvan sus dudas con respecto a su carrera o aplicación de ella, y puedan encontrar su aspiración laboral.</p>
 											<ul class="actions">
-											<li><a href="<?php echo site_url("index.php/encuentroemp");?>" class="button">Leer más</a></li>
+											<li><a href="<?php echo site_url("index.php/conferencias/encuentroemp");?>" class="button">Leer más</a></li>
 											</ul>
 										<a class="image fit"><img src="<?php echo base_url();?>/images/pic03.jpg" alt="" /></a>
 										
