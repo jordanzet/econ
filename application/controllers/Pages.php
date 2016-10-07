@@ -17,7 +17,7 @@ class Pages extends CI_Controller {
 		$this->load->view('econ/talleres');
 	}
 
-	function encuentro empresarial(){
+	function encuentroemp(){
 		$this->load->view('econ/encuentroemp');
 	}
 }
