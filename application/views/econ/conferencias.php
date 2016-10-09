@@ -4,6 +4,8 @@
 		<title>Conferencias</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<meta name="description" content="ECON reune a expertos nacionales e internacionales de electronica, brinda un espacio para la difusión  de los avances tecnológicos orientados a la electrónica">
+		<meta name="keywords" content="ECON, Congreso, Electronica, tecnología, CTIC, UNI">
 		<!--[if lte IE 8]><script src="<?php echo base_url();?>/assets/js/ie/html5shiv.js"></script><![endif]-->
 		<link rel="stylesheet" href="<?php echo base_url();?>/assets/css/main.css" />
 		<!--[if lte IE 9]><link rel="stylesheet" href="<?php echo base_url();?>/assets/css/ie9.css" /><![endif]-->
@@ -36,7 +38,13 @@
 							<li><a href="<?php echo site_url("");?>">Inicio</a></li>
 							<li>
 								<a href="<?php echo site_url("index.php/conferencias");?>">Conferencias</a>
+								<ul>
+									<li><a href="<?php echo site_url("index.php/encuentrocient");?>">Encuentro Científico</a></li>
+									<li><a href="<?php echo site_url("index.php/encuentroemp");?>">Encuentro Empresarial</a></li>
+									
+								</ul>
 							</li>
+							<li><a href="<?php echo site_url("index.php/cronograma");?>">Cronograma</a></li>
 							<li><a href="#" class="button special">Regístrarse</a></li>
 						</ul>
 					</nav>

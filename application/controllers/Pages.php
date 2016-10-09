@@ -20,4 +20,12 @@ class Pages extends CI_Controller {
 	function encuentroemp(){
 		$this->load->view('econ/encuentroemp');
 	}
+
+	function encuentrocient(){
+		$this->load->view('econ/encuentrocient');
+	}
+
+	function cronograma(){
+		$this->load->view('econ/cronograma');
+	}
 }

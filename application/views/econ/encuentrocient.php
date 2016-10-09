@@ -1,40 +1,39 @@
 <!DOCTYPE HTML>
 <html>
 	<head>
-		<title>Encuentro Empresarial</title>
+		<title>Encuentro Cientifico</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
 		<meta name="description" content="ECON reune a expertos nacionales e internacionales de electronica, brinda un espacio para la difusión  de los avances tecnológicos orientados a la electrónica">
-		<meta name="keywords" content="ECON, Congreso, Electronica, tecnología, CTIC, UNI">
-		<!--[if lte IE 8]><script src="<?php echo base_url();?>/assets/js/ie/html5shiv.js"></script><![endif]-->
-		<link rel="stylesheet" href="<?php echo base_url();?>/assets/css/main.css" />
-		<!--[if lte IE 9]><link rel="stylesheet" href="<?php echo base_url();?>/assets/css/ie9.css" /><![endif]-->
-		<!--[if lte IE 8]><link rel="stylesheet" href="<?php echo base_url();?>/assets/css/ie8.css" /><![endif]-->
-		<link  rel= "apple-touch-icon"  sizes= "57x57"  href= "<?php echo base_url();?>/images/favicon/apple-icon-57x57.png" > 
-		<link  rel= "apple-touch-icon"  sizes= "60x60"  href= "<?php echo base_url();?>/images/favicon/apple-icon-60x60.png" > 
-		<link  rel= "apple-touch-icon"  sizes= "72x72"  href= "<?php echo base_url();?>/images/favicon/apple-icon-72x72.png" > 
-		<link  rel= "apple-touch-icon"  sizes= "76x76"  href= "<?php echo base_url();?>/images/favicon/apple-icon-76x76.png" > 
-		<link  rel= "apple-touch-icon"  sizes= "114x114"  href= "<?php echo base_url();?>/images/favicon/apple-icon-114x114.png" > 
-		<link  rel= "apple-touch-icon"  sizes= "120x120"  href= "<?php echo base_url();?>/images/favicon/apple-icon-120x120.png" > 
-		<link  rel= "apple-touch-icon"  sizes= "144x144"  href= "<?php echo base_url();?>/images/favicon/apple-icon-144x144.png" > 
-		<link  rel= "apple-touch-icon"  sizes= "152x152"  href= "<?php echo base_url();?>/images/favicon/apple-icon-152x152.png" > 
-		<link  rel= "apple-touch-icon"  sizes= "180x180"  href= "<?php echo base_url();?>/images/favicon/apple-icon-180x180.png" > 
+		<meta name="keywords" content="ECON, ECON UNI 2016, Congreso, Electronica, tecnología, CTIC, UNI">
+		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
+		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
+		<link  rel= "apple-touch-icon"  sizes= "57x57"  href= "images/favicon/apple-icon-57x57.png" > 
+		<link  rel= "apple-touch-icon"  sizes= "60x60"  href= "images/favicon/apple-icon-60x60.png" > 
+		<link  rel= "apple-touch-icon"  sizes= "72x72"  href= "images/favicon/apple-icon-72x72.png" > 
+		<link  rel= "apple-touch-icon"  sizes= "76x76"  href= "images/favicon/apple-icon-76x76.png" > 
+		<link  rel= "apple-touch-icon"  sizes= "114x114"  href= "images/favicon/apple-icon-114x114.png" > 
+		<link  rel= "apple-touch-icon"  sizes= "120x120"  href= "images/favicon/apple-icon-120x120.png" > 
+		<link  rel= "apple-touch-icon"  sizes= "144x144"  href= "images/favicon/apple-icon-144x144.png" > 
+		<link  rel= "apple-touch-icon"  sizes= "152x152"  href= "images/favicon/apple-icon-152x152.png" > 
+		<link  rel= "apple-touch-icon"  sizes= "180x180"  href= "images/favicon/apple-icon-180x180.png" > 
 		<link  rel= "icon"  type= "image/png"  sizes= "192x192"   href= "/android-icon-192x192.png" > 
-		<link  rel= "icon"  type= "image/png"  sizes= "32x32"  href= "<?php echo base_url();?>/images/favicon/favicon-32x32.png" > 
-		<link  rel= "icon"  type= "image/png"  sizes= "96x96"  href= "<?php echo base_url();?>/images/favicon/favicon-96x96.png" > 
-		<link  rel= "icon"  type= "image/png"  sizes= "16x16"  href= "<?php echo base_url();?>/images/favicon/favicon-16x16.png" > 
+		<link  rel= "icon"  type= "image/png"  sizes= "32x32"  href= "images/favicon/favicon-32x32.png" > 
+		<link  rel= "icon"  type= "image/png"  sizes= "96x96"  href= "images/favicon/favicon-96x96.png" > 
+		<link  rel= "icon"  type= "image/png"  sizes= "16x16"  href= "images/favicon/favicon-16x16.png" > 
 		<link  rel= "manifest"  href= "/manifest.json" > 
 		<meta  name= "msapplication-TileColor"  content= "#ffffff" > 
 		<meta  name= "msapplication-TileImage"  content= "/ms-icon-144x144.png" > 
 		<meta  name= "theme-color"  content= "#ffffff" >
 	</head>
-	<body class="landing">
-    		
+	<body>
 		<div id="page-wrapper">
 
 			<!-- Header -->
 				<header id="header">
-					<h1 id="logo"><a href="<?php echo site_url("");?>">I Congreso de Electrónica</a></h1>
+					<h1 id="logo"><a href="e-con.html">I Congreso de Electrónica</a></h1>
 					<nav id="nav">
 						<ul>
 							<li><a href="<?php echo site_url("");?>">Inicio</a></li>
@@ -56,16 +55,16 @@
 				<div id="main" class="wrapper style1">
 					<div class="container">
 						<header class="major">
-							<h2>Encuentro Empresarial</h2>
-							<p>Empresas que estarán presentes en nuestras conferencias siendo su participación en la seccion "Encuentro Empresarial"</p>
+							<h2>Encuentro Científico</h2>
+							<p>Las instituciones de investigación u organismos que lo promueven podrán mencionarnos las oportunidades de investigar dentro del país y el apoyo que los investigadores reciben.</p>
 						</header>
 
 						<!-- Content -->
 							<section id="content">
 								<div class="box alt">
 									<div class="row 50% uniform">
-										<div class="6u  6u(xsmall)"><span class="image fit"><img src="<?php echo base_url();?>/images/HDL-PERU.png" alt="" /></span></div>
-										<div class="6u  6u$(xsmall)"><span class="image fit"><img src="<?php echo base_url();?>/images/Inducontrol.jpg" alt="" /></span></div>
+										<div class="6u  6u$(xsmall)"><span class="image fit"><img src="<?php echo base_url();?>/images/menacho.jpg" alt="" /></span></div>
+										<div class="6u  6u$(xsmall)"><span class="image fit"><img src="<?php echo base_url();?>/images/moran.jpg" alt="" /></span></div>
 										
 									</div>
 								
