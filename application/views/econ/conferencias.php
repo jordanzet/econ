@@ -75,6 +75,9 @@
 									
 										</header>
 											<p>Las instituciones de investigación u organismos que lo promueven podrán mencionarnos las oportunidades de investigar dentro del país y el apoyo que los investigadores reciben. </p>
+											<ul class="actions">
+											<li><a href="<?php echo site_url("index.php/encuentrocient");?>" class="button">Leer más</a></li>
+											</ul>
 										<header>
 											<h3>Encuentro Empresarial</h3>
 									
