@@ -1,7 +1,7 @@
 <!DOCTYPE HTML>
 <html>
 	<head>
-		<title>Conferencias</title>
+		<title>Encuentro Cientifico</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
 		<meta name="description" content="ECON reune a expertos nacionales e internacionales de electronica, brinda un espacio para la difusión  de los avances tecnológicos orientados a la electrónica">
