@@ -28,4 +28,8 @@ class Pages extends CI_Controller {
 	function cronograma(){
 		$this->load->view('econ/cronograma');
 	}
+
+	function registrarse(){
+		$this->load->view('econ/registrarse');
+	}
 }

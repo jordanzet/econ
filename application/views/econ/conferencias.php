@@ -45,7 +45,7 @@
 								</ul>
 							</li>
 							<li><a href="<?php echo site_url("index.php/cronograma");?>">Cronograma</a></li>
-							<li><a href="#" class="button special">Regístrarse</a></li>
+							<li><a href="<?php echo site_url("index.php/registrarse");?>" class="button special">Registrarse</a></li>
 						</ul>
 					</nav>
 				</header>

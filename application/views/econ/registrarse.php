@@ -1,7 +1,8 @@
-<!DOCTYPE HTML>
+<!DOCTYPE html>
 <html>
+<head>
 	<head>
-		<title>Encuentro Empresarial</title>
+		<title>Registrarse</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
 		<meta name="description" content="ECON reune a expertos nacionales e internacionales de electronica, brinda un espacio para la difusión  de los avances tecnológicos orientados a la electrónica">
@@ -28,13 +29,11 @@
 		<meta  name= "msapplication-TileImage"  content= "/ms-icon-144x144.png" > 
 		<meta  name= "theme-color"  content= "#ffffff" >
 	</head>
-	<body class="landing">
-    		
-		<div id="page-wrapper">
+</head>
+<body>
 
-			<!-- Header -->
 				<header id="header">
-					<h1 id="logo"><a href="<?php echo site_url("");?>">I Congreso de Electrónica</a></h1>
+					<h1 id="logo"><a href="e-con.html">I Congreso de Electrónica</a></h1>
 					<nav id="nav">
 						<ul>
 							<li><a href="<?php echo site_url("");?>">Inicio</a></li>
@@ -47,41 +46,19 @@
 								</ul>
 							</li>
 							<li><a href="<?php echo site_url("index.php/cronograma");?>">Cronograma</a></li>
-							<li><a href="<?php echo site_url("index.php/registrarse");?>" class="button special">Registrarse</a></li>
+							
 						</ul>
 					</nav>
 				</header>
+				
+				<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfOH2-ozKpAN3t_ixq-Tuh_iz_jMUWpzrQpN2XC9xQO9aV17w/viewform?c=0&w=1" width="100%" height="4000" frameborder="0" marginheight="0" marginwidth="0" style="background: #FFFFFF;"></iframe>
 
-			<!-- Main -->
-				<div id="main" class="wrapper style1">
-					<div class="container">
-						<header class="major">
-							<h2>Encuentro Empresarial</h2>
-							<p>Empresas que estarán presentes en nuestras conferencias siendo su participación en la seccion "Encuentro Empresarial"</p>
-						</header>
-
-						<!-- Content -->
-							<section id="content">
-								<div class="box alt">
-									<div class="row 50% uniform">
-										<div class="6u  6u(xsmall)"><span class="image fit"><img src="<?php echo base_url();?>/images/HDL-PERU.png" alt="" /></span></div>
-										<div class="6u  6u$(xsmall)"><span class="image fit"><img src="<?php echo base_url();?>/images/Inducontrol.jpg" alt="" /></span></div>
-										
-									</div>
-								
-							</section>
-
-					</div>
-				</div>
-
-			<!-- Footer -->
-				<footer id="footer">
+			<footer id="footer">
 					<ul class="icons">
 						<li><a href="https://twitter.com/InformesEcon/" target="_blank" class="icon alt fa-twitter"><span class="label">Twitter</span></a></li>
 						<li><a href="https://www.facebook.com/ECON.UNI/" target="_blank" class="icon alt fa-facebook"><span class="label">Facebook</span></a></li>
 						
 					</ul>
-					
 					<ul class="copyright">
 					<p>Universidad Nacional de Ingeniería</p>
 					<p>Facultad de ingeniería eléctrica y electrónica</p>
@@ -90,17 +67,14 @@
 					</ul> 
 				</footer>
 
-		</div>
 
-		<!-- Scripts -->
-			<script src="<?php echo base_url();?>/assets/js/jquery.min.js"></script>
-			<script src="<?php echo base_url();?>/assets/js/jquery.scrolly.min.js"></script>
-			<script src="<?php echo base_url();?>/assets/js/jquery.dropotron.min.js"></script>
-			<script src="<?php echo base_url();?>/assets/js/jquery.scrollex.min.js"></script>
-			<script src="<?php echo base_url();?>/assets/js/skel.min.js"></script>
-			<script src="<?php echo base_url();?>/assets/js/util.js"></script>
-			<!--[if lte IE 8]><script src="<?php echo base_url();?>/assets/js/ie/respond.min.js"></script><![endif]-->
-			<script src="<?php echo base_url();?>/assets/js/main.js"></script>
-
-	</body>
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/jquery.dropotron.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/skel.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
+			<script src="assets/js/main.js"></script>
+</body>
 </html>
