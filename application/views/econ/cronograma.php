@@ -33,7 +33,7 @@
 
 			<!-- Header -->
 				<header id="header">
-					<h1 id="logo"><a href="e-con.html">I Congreso de Electrónica</a></h1>
+					<h1 id="logo"><a href="<?php echo site_url("");?>">I Congreso de Electrónica</a></h1>
 					<nav id="nav">
 						<ul>
 							<li><a href="<?php echo site_url("");?>">Inicio</a></li>
