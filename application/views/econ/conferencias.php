@@ -41,6 +41,7 @@
 								<ul>
 									<li><a href="<?php echo site_url("index.php/encuentrocient");?>">Encuentro Científico</a></li>
 									<li><a href="<?php echo site_url("index.php/encuentroemp");?>">Encuentro Empresarial</a></li>
+									<li><a href="<?php echo site_url("index.php/innovacion");?>">Innovación Científica y Tecnológica</a></li>
 									
 								</ul>
 							</li>
@@ -69,6 +70,9 @@
 									
 										</header>
 											<p>Por cada área temática del congreso se contará con expositores que podrán explicar las tecnologías emergentes y sus campos de investigación que se desarrollan dentro del contexto actual en su área determinada. </p>
+											<ul class="actions">
+											<li><a href="<?php echo site_url("index.php/innovacion");?>" class="button">Leer más</a></li>
+											</ul>
 
 										<header>
 											<h3>Encuentro Científico</h3>

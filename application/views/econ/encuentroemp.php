@@ -28,7 +28,7 @@
 		<meta  name= "msapplication-TileImage"  content= "/ms-icon-144x144.png" > 
 		<meta  name= "theme-color"  content= "#ffffff" >
 	</head>
-	<body class="landing">
+	<body>
     		
 		<div id="page-wrapper">
 
@@ -43,6 +43,7 @@
 								<ul>
 									<li><a href="<?php echo site_url("index.php/encuentrocient");?>">Encuentro Científico</a></li>
 									<li><a href="<?php echo site_url("index.php/encuentroemp");?>">Encuentro Empresarial</a></li>
+									<li><a href="<?php echo site_url("index.php/innovacion");?>">Innovación Científica y Tecnológica</a></li>
 									
 								</ul>
 							</li>
@@ -64,9 +65,11 @@
 							<section id="content">
 								<div class="box alt">
 									<div class="row 50% uniform">
-										<div class="6u  6u(xsmall)"><span class="image fit"><img src="<?php echo base_url();?>/images/HDL-PERU.png" alt="" /></span></div>
-										<div class="6u  6u$(xsmall)"><span class="image fit"><img src="<?php echo base_url();?>/images/Inducontrol.jpg" alt="" /></span></div>
-										
+										<div class="6u  6u(xsmall)"><span class="image fit"><img src="<?php echo base_url();?>/images/HDL-PERU.jpg" alt="" /></span></div>
+										<div class="6u  6u(xsmall)"><span class="image fit"><img src="<?php echo base_url();?>/images/Inducontrol.jpg" alt="" /></span></div>
+										<div class="6u  6u(xsmall)"><span class="image fit"><img src="<?php echo base_url();?>/images/gecko.jpg" alt="" /></span></div>
+										<div class="6u  6u(xsmall)"><span class="image fit"><img src="<?php echo base_url();?>/images/ilutec.jpg" alt="" /></span></div>
+										<div class="6u  6u(xsmall)"><span class="image fit"><img src="<?php echo base_url();?>/images/innovate.jpg" alt="" /></span></div>
 									</div>
 								
 							</section>

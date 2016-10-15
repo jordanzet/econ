@@ -32,4 +32,8 @@ class Pages extends CI_Controller {
 	function registrarse(){
 		$this->load->view('econ/registrarse');
 	}
+
+	function innovacion(){
+		$this->load->view('econ/innovacion');
+	}
 }

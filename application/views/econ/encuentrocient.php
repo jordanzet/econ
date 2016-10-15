@@ -1,7 +1,7 @@
 <!DOCTYPE HTML>
 <html>
 	<head>
-		<title>Encuentro Cientifico</title>
+		<title>Encuentro Científico</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
 		<meta name="description" content="ECON reune a expertos nacionales e internacionales de electronica, brinda un espacio para la difusión  de los avances tecnológicos orientados a la electrónica">
@@ -42,6 +42,7 @@
 								<ul>
 									<li><a href="<?php echo site_url("index.php/encuentrocient");?>">Encuentro Científico</a></li>
 									<li><a href="<?php echo site_url("index.php/encuentroemp");?>">Encuentro Empresarial</a></li>
+									<li><a href="<?php echo site_url("index.php/innovacion");?>">Innovación Científica y Tecnológica</a></li>
 									
 								</ul>
 							</li>
@@ -63,8 +64,7 @@
 							<section id="content">
 								<div class="box alt">
 									<div class="row 50% uniform">
-										<div class="6u  6u$(xsmall)"><span class="image fit"><img src="<?php echo base_url();?>/images/menacho.jpg" alt="" /></span></div>
-										<div class="6u  6u$(xsmall)"><span class="image fit"><img src="<?php echo base_url();?>/images/moran.jpg" alt="" /></span></div>
+										
 										
 									</div>
 								

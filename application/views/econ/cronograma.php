@@ -42,6 +42,7 @@
 								<ul>
 									<li><a href="<?php echo site_url("index.php/encuentrocient");?>">Encuentro Científico</a></li>
 									<li><a href="<?php echo site_url("index.php/encuentroemp");?>">Encuentro Empresarial</a></li>
+									<li><a href="<?php echo site_url("index.php/innovacion");?>">Innovación Científica y Tecnológica</a></li>
 									
 								</ul>
 							</li>
